@@ -1,4 +1,6 @@
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?c </script>
+<script type="text/javascript"
+   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 #基本术语
 - 示例（instance）或样本（sample）：关于一个事件或对象的描述的一条记录
 - 数据集（data set）：所有记录的集合
