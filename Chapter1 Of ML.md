@@ -30,7 +30,7 @@
 - 用通配符“*”表示可以选取任意值  
 - 用\\(\emptyset\\)表示没有这个东西，或是这个概念不成立  
 
-![西瓜问题的假设空间](picture\1.PNG)  
+![西瓜问题的假设空间](https://github.com/cjing9017/Machine-Learning-Notes/blob/master/Picture/1.PNG)  
 根据上面四个前提条件，我们可以得到如下的\\(4\times3\times3+1=65\\)种可能的情况：  
 
 1. 色泽=青绿；根蒂=蜷缩；敲声=浊响
